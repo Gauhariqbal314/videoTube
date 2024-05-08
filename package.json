@@ -76,7 +76,7 @@
     "prettier": "^3.2.5"
   },
   "scripts": {
-    "dev": "nodemon -r dotenv/config --experimental-json-module src/index.js"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "keywords": [
     "javascript",
